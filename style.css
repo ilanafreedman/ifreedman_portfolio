@@ -15,7 +15,7 @@ body {
 	margin-top: 0px;
 }
 h1 {
-	font-size: 40px;
+	font-size: 50px;
 	color: white;
 }
 
@@ -56,19 +56,33 @@ h2 {
 
 .quilotoa {
 	margin-top: 70px;
-	background-image: url("cover.jpeg");
+	background-image: url("coverbigger.jpg");
 	height: 720px;
-	width: 1000px;
+	width: 1400px;
 	background-repeat: none;
 	color: black;
-	text-align: center;
+	image-rendering: center;
 	margin-left: 100px;
+	margin-right: 5px;
 }
 
 .nospace {
 	padding: 0px;
-	margin-top: 8px;
+	margin-top: 30px;
 	margin-bottom: 8px;
+	color: black;
+	width: 1500px;
+	text-align: left;
+	margin-left: 15px;
+	
+}
+.info2 {
+	color: black;
+	margin-left: 15px;
+	padding: 0px;
+	width: 1500px;
+	margin-top: 30px;
+	text-align: left;
 }
 
 li {
@@ -78,9 +92,11 @@ li {
 
 
 p {
-	margin-top: 100px;
+	margin-top: 0px;
 	clear: left;
 	padding: 0px;
+	margin-left: 100px;
+	color: black;
 
 }
 h3 {
@@ -100,12 +116,25 @@ h5 {
 	margin-top: 0px;
 	padding-left: 15px;
 	padding-right: 15px;
+	font-size: 35px;
 }
 .row1 {
 	margin-top: 30px;
 	float:left;
+	margin-left: 300px;
+	margin-bottom: 30px;
+}
+
+.row2 {
+	margin-top: 30px;
+	float:left;
+	margin-left: 300px;
+	margin-bottom: 30px;
+
 }
 
 .abouttop {
 	clear: left;
 }
+
+
