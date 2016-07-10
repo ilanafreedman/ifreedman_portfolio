@@ -88,6 +88,41 @@ h2 {
 	background-size:cover;
     background-image: url("topecuador.png.jpeg");
 }
+.col2 {
+	float: left;
+	width: 460px;
+	margin: 0px;
+	font-family: arial;
+	}
+	.col3 {
+	float: left;
+	width: 460px;
+	margin: 0px;
+	font-family: arial;
+	}
+
+	.col1 {
+	float: left;
+	width: 460px;
+	margin: 0px;
+	font-family: arial;
+	}
+.patagoniacover {
+	height: 900px;
+	width: 1400px;
+	margin-top: 70px;
+	max-width: 100%;
+	background-repeat: none;
+	color: black;
+	image-rendering: center;
+	margin-left: 100px;
+	margin-right: 5px;
+	margin-bottom: 15px;
+	display: inline-block;
+	float: left;
+	background-size:cover;
+    background-image: url("patagoniacover.jpg");
+}
 .bigpic {
 	height: 900px;
 	width: 1400px;
@@ -226,5 +261,3 @@ h5 {
 	clear: left;
 	max-width: 100%;
 }
-
-
